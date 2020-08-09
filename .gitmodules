@@ -1,0 +1,12 @@
+[submodule "discover-server"]
+	path = discover-server
+	url = https://github.com/asood15/discover-server
+[submodule "rating-data-service"]
+	path = rating-data-service
+	url = https://github.com/asood15/rating-data-service
+[submodule "movie-catalogue-service"]
+	path = movie-catalogue-service
+	url = https://github.com/asood15/movie-catalogue-service
+[submodule "movie-info-service"]
+	path = movie-info-service
+	url = https://github.com/asood15/movie-info-service
